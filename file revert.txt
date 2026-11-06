@@ -1,2 +1,9 @@
 file upload and revert file check
 open seurce files are for checking
+<<<<<<< HEAD
+ght
+=======
+ght
+hts
+gt
+>>>>>>> d10a0f3 (final Commit)
